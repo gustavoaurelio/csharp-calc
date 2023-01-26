@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uQfA27eS2frDFzL6nTYWiVzyc6hEp8KjfpdWyhpQvmMcMMSMRL5VoLCbArnzlsfvgATnPx86LXTyn+3KK5+dtg==",
+  "success": true,
+  "projectFilePath": "/home/gustavo/Projects/csharp-calc/csharp-calc.csproj",
+  "expectedPackageFiles": [
+    "/home/gustavo/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

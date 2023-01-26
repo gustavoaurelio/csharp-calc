@@ -1,0 +1,15 @@
+/home/gustavo/Projects/csharp-calc/bin/Debug/net7.0/csharp-calc
+/home/gustavo/Projects/csharp-calc/bin/Debug/net7.0/csharp-calc.deps.json
+/home/gustavo/Projects/csharp-calc/bin/Debug/net7.0/csharp-calc.runtimeconfig.json
+/home/gustavo/Projects/csharp-calc/bin/Debug/net7.0/csharp-calc.dll
+/home/gustavo/Projects/csharp-calc/bin/Debug/net7.0/csharp-calc.pdb
+/home/gustavo/Projects/csharp-calc/obj/Debug/net7.0/csharp-calc.csproj.AssemblyReference.cache
+/home/gustavo/Projects/csharp-calc/obj/Debug/net7.0/csharp-calc.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Projects/csharp-calc/obj/Debug/net7.0/csharp-calc.AssemblyInfoInputs.cache
+/home/gustavo/Projects/csharp-calc/obj/Debug/net7.0/csharp-calc.AssemblyInfo.cs
+/home/gustavo/Projects/csharp-calc/obj/Debug/net7.0/csharp-calc.csproj.CoreCompileInputs.cache
+/home/gustavo/Projects/csharp-calc/obj/Debug/net7.0/csharp-calc.dll
+/home/gustavo/Projects/csharp-calc/obj/Debug/net7.0/refint/csharp-calc.dll
+/home/gustavo/Projects/csharp-calc/obj/Debug/net7.0/csharp-calc.pdb
+/home/gustavo/Projects/csharp-calc/obj/Debug/net7.0/csharp-calc.genruntimeconfig.cache
+/home/gustavo/Projects/csharp-calc/obj/Debug/net7.0/ref/csharp-calc.dll
